@@ -1,0 +1,14 @@
+.contacts__list {
+  display: flex;
+  flex-direction: column;
+
+  padding: 30px;
+}
+
+.item {
+  border: 2px solid gray;
+  margin: 10px;
+}
+/* .name__contact {
+  display: flex;
+} */

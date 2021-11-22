@@ -1,0 +1,21 @@
+.label {
+  display: block;
+
+  margin-top: 10px;
+
+  font-weight: 500;
+  font-size: 18px;
+}
+
+.input {
+  display: block;
+  margin-top: 10px;
+  padding: 10px;
+  width: 100%;
+
+  border: 1px solid rgba(40, 36, 92, 0.253);
+  border-radius: 4px;
+  cursor: pointer;
+
+  font-size: 15px;
+}

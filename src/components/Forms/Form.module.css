@@ -1,0 +1,26 @@
+.radio__btn {
+  display: flex;
+  flex-direction: column;
+
+  padding-top: 30px;
+  padding-left: 30px;
+}
+
+.title {
+  text-align: center;
+}
+
+form {
+  text-align: center;
+}
+
+.radio__btn {
+  display: flex;
+  flex-direction: row;
+  /* align-content: space-between; */
+  /* align-items: flex-start; */
+  justify-content: space-evenly;
+}
+/* .form__name {
+  display: flex;
+} */
